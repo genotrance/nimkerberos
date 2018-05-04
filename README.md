@@ -18,6 +18,8 @@ This will download, wrap and install nimkerberos in the standard Nimble package 
 
 __Usage__
 
+Module documentation can be found [here](http://nimgen.genotrance.com/nimkerberos).
+
 ```nim
 import nimkerberos/kerberos_sspi
 
